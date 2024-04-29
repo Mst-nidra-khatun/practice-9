@@ -1,0 +1,45 @@
+.box{
+    background: #44ac74;
+    width: 700px;
+    height: 430px;
+}
+.bar {
+    position: absolute;
+    background: #294633;
+    width: 40px;
+    height: 250px;
+ }
+.bar1 {
+    top: -30px;
+    right: 620px;
+    transform: rotate(90deg);
+    border-radius: 100px;
+}
+.bar2 {
+    top: 200px;
+    right: 620px;
+    transform: rotate(90deg);
+    border-radius: 100px;
+}
+.bar3 {
+    top: 85px;
+    right: 700px;
+}
+.bar4 {
+    top: 85px;
+    right: 615px;
+}
+.bar5 {
+    top: 85px;
+    right: 535px;
+}
+.bar6 {
+    top: 80px;
+    right: 390px;
+    transform: rotate(90deg);
+}
+.bar7 {
+    top: 80px;
+    right: 840px;
+    transform: rotate(90deg);
+}
